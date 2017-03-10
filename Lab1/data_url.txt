@@ -1,0 +1,2 @@
+http://chart.finance.yahoo.com/table.html?s=LLOY.L&a=2&b=2&c=2014&d=2&e=2&f=2017&g=d&ignore=.csv
+http://chart.finance.yahoo.com/table.csv?s=LLOY.L&a=2&b=2&c=2014&d=2&e=2&f=2017&g=d&ignore=.csv
